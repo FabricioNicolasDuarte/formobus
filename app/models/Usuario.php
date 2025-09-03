@@ -1,5 +1,6 @@
 <?php
 
+// Agrego este texto para simular algun cambio de la verificación de email.
 
 require_once __DIR__ . '/Database.php';
 
