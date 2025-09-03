@@ -159,7 +159,7 @@ git merge --no-ff feature/auth-login
 
 # Release
 git checkout -b release/0.1.0 develop
-
+#Actualizacion
 # Tag en main
 git checkout main
 git merge --no-ff release/0.1.0
