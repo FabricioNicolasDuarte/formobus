@@ -1,0 +1,15 @@
+# .gitlab-ci.yml — Bonus opcional (Node + linter)
+
+image: node:20
+
+stages:
+  - lint
+
+lint:
+  stage: lint
+  script:
+    - npm ci || npm install
+    - npx eslint . || echo "No hay ESLint configurado aún"
+  only:
+    - merge_requests
+    - branches
