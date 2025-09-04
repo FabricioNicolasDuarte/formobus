@@ -29,11 +29,14 @@
          Mi nombre es <strong>Duarte Fabricio</strong>, soy alumno de la carrera Tecnicatura Universitaria en Programación.
      </p>
 
+     <hr style="border-top: 1px solid #ccc;">
+
      <h3 style="color: #333;">Contexto del Proyecto</h3>
      <p style="color: #333;">
-         Esta aplicación fue desarrollada en el año 2025 para el Proyecto de Examen Final de la materia <strong>Programación II</strong>, en la Universidad Tecnológica Nacional (UTN), Facultad Regional de Resistencia, Extensión Aulica Formosa.
-     </p>
+         Esta aplicación fue desarrollada en el año 2025, en el marco de un desafío de idear una solución a una problemática actual. En este caso, si bien existe información sobre los recorridos de las líneas de transporte urbano de buses, no hay una guía específica para el usuario, que desea trasladarse de un punto a otro, y que deba combinar medios de transporte.
 
+
+         
  </div>
 
  <div style="text-align: center; margin-top: 2rem;">
